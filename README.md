@@ -31,6 +31,10 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Latest Blog Posts
 - 📖 Check out my latest blog posts on [![Nilesh's Blog](https://img.shields.io/badge/Nilesh's%20Blog-Subscribe%20via%20RSS-orange?style=flat-square&logo=rss)](https://nileshblog.tech/feed)
 <!-- BLOG-POST-LIST:START -->
