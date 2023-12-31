@@ -11,7 +11,7 @@
 
 ### Blogs posts
 
-- [Most Aksed Interview Javascript Question &lpar;Closure&rpar;](https://www.nileshblog.tech/javascript-important-interview-ask-question-on-closure/)
+
 <!-- BLOG-POST-LIST:START -->
 - [Promises in JavaScript: Def, Creation, Call, Pros and Cons, Behind-the-Scenes Work, Real world Example](https://www.nileshblog.tech/promises-in-javascript-create-call-method-async-pros-cons/)
 - [Most Aksed Interview Javascript Question &lpar;Closure&rpar;](https://www.nileshblog.tech/javascript-important-interview-ask-question-on-closure/)
