@@ -28,6 +28,10 @@
 
 ## Latest Blog Posts
 - 📖 Check out my latest blog posts on [![Nilesh's Blog](https://img.shields.io/badge/Nilesh's%20Blog-Subscribe%20via%20RSS-orange?style=flat-square&logo=rss)](https://nileshblog.tech/feed)
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nileshraut-code&show_icons=true&locale=en&layout=compact" alt="nileshraut-code" /></p>
