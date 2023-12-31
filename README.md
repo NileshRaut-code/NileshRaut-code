@@ -11,6 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Power of Tokens:Refresh Tokens and Access Tokens in Backend Development](https://dev.to/speaklouder/power-of-tokensrefresh-tokens-and-access-tokens-in-backend-development-4bc1)
+- [React Navbar on Scroll Change - Background Color ,Padding, More - React JS](https://dev.to/speaklouder/react-navbar-on-scroll-change-background-color-padding-more-react-js-2fi6)
+- [Promises in JavaScript: Def, Creation, Call, Pros and Cons, Behind-the-Scenes Work, Real world Example](https://dev.to/speaklouder/promises-in-javascript-def-creation-call-pros-and-cons-behind-the-scenes-work-real-world-example-i0c)
+- [Interview Asked Javascript Question &lpar;Closure&rpar;](https://dev.to/speaklouder/most-aksed-interview-javascript-question-closure-f1l)
+- [JavaScript : Execution Context ,Call Stack ,JavaScript Execution ?&lpar;Important to Understand&rpar;](https://dev.to/speaklouder/javascript-execution-context-call-stack-javascript-execution-important-to-understand-5gio)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
