@@ -14,8 +14,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Happy Ugadi / Gudipadwa 2024: Wishes Videos ,Images, Quotes, Status, Messages, and Photos - Celebrate the Festival with Zeal!](https://www.technilesh.com/2023/03/happy-ugadi-gudipadwa-2023-wishes.html)
-- [How to Implement Sharding in MongoDB: A Comprehensive Guide with Examples](https://nileshblog.tech/how-to-implement-sharding-in-mongodb/)
-- [HTML Attributes That Don’t Require JavaScript](https://nileshblog.tech/html-attributes-that-dont-require-javascript/)
+- [How to Implement Sharding in MongoDB: A Comprehensive Guide with Examples](https://www.nileshblog.tech/how-to-implement-sharding-in-mongodb/)
+- [HTML Attributes That Don’t Require JavaScript](https://www.nileshblog.tech/html-attributes-that-dont-require-javascript/)
 - [Markdown vs HTML: Choosing the Right Language for Web Development](https://www.technilesh.com/2024/02/markdown-vs-html-choosing-right.html)
 - [📚 React Libraries Worth Using in 2024?](https://www.technilesh.com/2024/02/react-libraries-worth-using-in-2024.html)
 <!-- BLOG-POST-LIST:END -->
