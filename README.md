@@ -13,11 +13,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Kubernetes and Docker to Automate Scalability and Handle Large Traffic](https://nileshblog.tech/how-to-use-kubernetes-and-docker-to-automate-scalability-and-handle-large-traffic/)
 - [How to Use Large Language Models &lpar;LLMs&rpar; to Build Projects](https://nileshblog.tech/how-to-use-large-language-models-llms-to-build-projects/)
 - [Happy Ugadi / Gudipadwa 2024: Wishes Videos ,Images, Quotes, Status, Messages, and Photos - Celebrate the Festival with Zeal!](https://www.technilesh.com/2023/03/happy-ugadi-gudipadwa-2023-wishes.html)
 - [How to Implement Sharding in MongoDB: A Comprehensive Guide with Examples](https://nileshblog.tech/how-to-implement-sharding-in-mongodb/)
 - [HTML Attributes That Don’t Require JavaScript](https://nileshblog.tech/html-attributes-that-dont-require-javascript/)
-- [Markdown vs HTML: Choosing the Right Language for Web Development](https://www.technilesh.com/2024/02/markdown-vs-html-choosing-right.html)
 <!-- BLOG-POST-LIST:END -->
 
 #Recent Dev.to Post
