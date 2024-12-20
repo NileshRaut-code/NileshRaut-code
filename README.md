@@ -13,11 +13,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 7: Kubernetes – Services in Kubernetes](https://nileshblog.tech/day-7-kubernetes-services-in-kubernetes/)
-- [Day 6: Kubernetes – Deployments and ReplicaSets](https://nileshblog.tech/day-6-kubernetes-deployments-and-replicasets/)
-- [Day 5: Kubernetes – Working with kubectl](https://nileshblog.tech/day-5-kubernetes-working-with-kubectl/)
-- [Day 4: Kubernetes – Setting Up Kubernetes](https://nileshblog.tech/day-4-kubernetes-setting-up-kubernetes/)
-- [Day 3: Kubernetes: Understanding the Architecture](https://nileshblog.tech/day-3-kubernetes-understanding-the-architecture/)
+- [Day 16: Kubernetes – Advanced Scheduling](https://nileshblog.tech/day-16-kubernetes-advanced-scheduling/)
+- [Day 15: Kubernetes – Ingress Controllers](https://nileshblog.tech/day-15-kubernetes-ingress-controllers/)
+- [Day 14: Kubernetes – Stateful Applications and StatefulSets](https://nileshblog.tech/day-14-kubernetes-stateful-applications-and-statefulsets/)
+- [Day 13: Kubernetes – Autoscaling in Kubernetes](https://nileshblog.tech/day-13-kubernetes-autoscaling-in-kubernetes/)
+- [Day 12: Kubernetes – Networking Essentials](https://nileshblog.tech/day-12-kubernetes-networking-essentials/)
 <!-- BLOG-POST-LIST:END -->
 
 #Recent Dev.to Post
