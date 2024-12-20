@@ -13,11 +13,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 3: Kubernetes: Understanding the Architecture](https://nileshblog.tech/day-3-kubernetes-understanding-the-architecture/)
+- [Day 2: Kubernetes: Understanding Containers](https://nileshblog.tech/day-2-kubernetes-understanding-containers/)
+- [Day 1: Kubernetes: Mastering the Essentials in 30 Days](https://nileshblog.tech/day-1-kubernetes-mastering-the-essentials-in-30-days/)
 - [How to Use Kubernetes and Docker to Automate Scalability and Handle Large Traffic](https://nileshblog.tech/how-to-use-kubernetes-and-docker-to-automate-scalability-and-handle-large-traffic/)
 - [How to Use Large Language Models &lpar;LLMs&rpar; to Build Projects](https://nileshblog.tech/how-to-use-large-language-models-llms-to-build-projects/)
-- [Happy Ugadi / Gudipadwa 2024: Wishes Videos ,Images, Quotes, Status, Messages, and Photos - Celebrate the Festival with Zeal!](https://www.technilesh.com/2023/03/happy-ugadi-gudipadwa-2023-wishes.html)
-- [How to Implement Sharding in MongoDB: A Comprehensive Guide with Examples](https://nileshblog.tech/how-to-implement-sharding-in-mongodb/)
-- [HTML Attributes That Don’t Require JavaScript](https://nileshblog.tech/html-attributes-that-dont-require-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 #Recent Dev.to Post
