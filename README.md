@@ -13,11 +13,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 7: Kubernetes – Services in Kubernetes](https://nileshblog.tech/day-7-kubernetes-services-in-kubernetes/)
+- [Day 6: Kubernetes – Deployments and ReplicaSets](https://nileshblog.tech/day-6-kubernetes-deployments-and-replicasets/)
+- [Day 5: Kubernetes – Working with kubectl](https://nileshblog.tech/day-5-kubernetes-working-with-kubectl/)
+- [Day 4: Kubernetes – Setting Up Kubernetes](https://nileshblog.tech/day-4-kubernetes-setting-up-kubernetes/)
 - [Day 3: Kubernetes: Understanding the Architecture](https://nileshblog.tech/day-3-kubernetes-understanding-the-architecture/)
-- [Day 2: Kubernetes: Understanding Containers](https://nileshblog.tech/day-2-kubernetes-understanding-containers/)
-- [Day 1: Kubernetes: Mastering the Essentials in 30 Days](https://nileshblog.tech/day-1-kubernetes-mastering-the-essentials-in-30-days/)
-- [How to Use Kubernetes and Docker to Automate Scalability and Handle Large Traffic](https://nileshblog.tech/how-to-use-kubernetes-and-docker-to-automate-scalability-and-handle-large-traffic/)
-- [How to Use Large Language Models &lpar;LLMs&rpar; to Build Projects](https://nileshblog.tech/how-to-use-large-language-models-llms-to-build-projects/)
 <!-- BLOG-POST-LIST:END -->
 
 #Recent Dev.to Post
