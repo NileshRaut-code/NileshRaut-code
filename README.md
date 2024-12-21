@@ -13,11 +13,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 16: Kubernetes – Advanced Scheduling](https://nileshblog.tech/day-16-kubernetes-advanced-scheduling/)
-- [Day 15: Kubernetes – Ingress Controllers](https://nileshblog.tech/day-15-kubernetes-ingress-controllers/)
-- [Day 14: Kubernetes – Stateful Applications and StatefulSets](https://nileshblog.tech/day-14-kubernetes-stateful-applications-and-statefulsets/)
-- [Day 13: Kubernetes – Autoscaling in Kubernetes](https://nileshblog.tech/day-13-kubernetes-autoscaling-in-kubernetes/)
-- [Day 12: Kubernetes – Networking Essentials](https://nileshblog.tech/day-12-kubernetes-networking-essentials/)
+- [Day 30:Kubernetes- Recap and Next Steps](https://nileshblog.tech/day-30kubernetes-recap-and-next-steps/)
+- [Day 29: Kubernetes – Exploring the Kubernetes Ecosystem](https://nileshblog.tech/day-29-kubernetes-exploring-the-kubernetes-ecosystem/)
+- [Day 28: Kubernetes – Cost Optimization in Kubernetes](https://nileshblog.tech/day-28-kubernetes-cost-optimization-in-kubernetes/)
+- [Day 27: Kubernetes – Kubernetes for Machine Learning Workloads](https://nileshblog.tech/day-27-kubernetes-kubernetes-for-machine-learning-workloads/)
+- [Day 26: Kubernetes – GitOps with Kubernetes](https://nileshblog.tech/day-26-kubernetes-gitops-with-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 #Recent Dev.to Post
