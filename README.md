@@ -13,11 +13,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [🛒 Deploying Your Complex E-Commerce App or Any Web app](https://nileshblog.tech/%f0%9f%9b%92-deploying-your-complex-e-commerce-app-or-any-web-app/)
-- [Day 30:Kubernetes- Recap and Next Steps](https://nileshblog.tech/day-30kubernetes-recap-and-next-steps/)
-- [Day 29: Kubernetes – Exploring the Kubernetes Ecosystem](https://nileshblog.tech/day-29-kubernetes-exploring-the-kubernetes-ecosystem/)
-- [Day 28: Kubernetes – Cost Optimization in Kubernetes](https://nileshblog.tech/day-28-kubernetes-cost-optimization-in-kubernetes/)
-- [Day 27: Kubernetes – Kubernetes for Machine Learning Workloads](https://nileshblog.tech/day-27-kubernetes-kubernetes-for-machine-learning-workloads/)
+- [Happy Ugadi / Gudipadwa 2024: Wishes Videos ,Images, Quotes, Status, Messages, and Photos - Celebrate the Festival with Zeal!](https://www.technilesh.com/2023/03/happy-ugadi-gudipadwa-2023-wishes.html)
+- [Markdown vs HTML: Choosing the Right Language for Web Development](https://www.technilesh.com/2024/02/markdown-vs-html-choosing-right.html)
+- [📚 React Libraries Worth Using in 2024?](https://www.technilesh.com/2024/02/react-libraries-worth-using-in-2024.html)
+- [Mastering VS Code Extension Development with React, TypeScript, and Tailwind: A Comprehensive Guide](https://www.technilesh.com/2024/02/mastering-vs-code-extension-development.html)
+- [Magic of Converting Values to Strings in Javascript 🎃🔰](https://www.technilesh.com/2023/10/magic-of-converting-values-to-strings.html)
 <!-- BLOG-POST-LIST:END -->
 
 #Recent Dev.to Post
