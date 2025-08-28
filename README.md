@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nileshraut-code" alt="nileshraut-code" /></a> </p>
 
-- 🌱 I’m currently learning **MERN ,**
+- 🌱 I’m currently learning **Go Lang ,**
 
-- 💬 Ask me about **React js ,Express , Machine learning , Wordpress ,**
+- 💬 Ask me about **MERN React js ,Express , Machine learning , Wordpress ,**
 
 ### Blogs posts
 
