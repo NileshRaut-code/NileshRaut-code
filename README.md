@@ -14,10 +14,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [🛒 Deploying Your Complex E-Commerce App or Any Web app](https://nileshblog.tech/%f0%9f%9b%92-deploying-your-complex-e-commerce-app-or-any-web-app/)
+- [Navbar Example using : Tailwind CSS , React , React Router ,](https://nileshblog.tech/navbar-example-using-tailwind-css-react-react-router/)
 - [Day 30:Kubernetes- Recap and Next Steps](https://nileshblog.tech/day-30kubernetes-recap-and-next-steps/)
 - [Day 29: Kubernetes – Exploring the Kubernetes Ecosystem](https://nileshblog.tech/day-29-kubernetes-exploring-the-kubernetes-ecosystem/)
 - [Day 28: Kubernetes – Cost Optimization in Kubernetes](https://nileshblog.tech/day-28-kubernetes-cost-optimization-in-kubernetes/)
-- [Day 27: Kubernetes – Kubernetes for Machine Learning Workloads](https://nileshblog.tech/day-27-kubernetes-kubernetes-for-machine-learning-workloads/)
 <!-- BLOG-POST-LIST:END -->
 
 #Recent Dev.to Post
