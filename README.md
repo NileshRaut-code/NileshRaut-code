@@ -13,11 +13,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing a High-Concurrency Flash Sale Stock &amp; Inventory Reservation System with Node.js, Redis, Lua, and MongoDB](https://nileshblog.tech/designing-a-high-concurrency-flash-sale-stock-inventory-reservation-system-with-node-js-redis-lua-and-mongodb/)
 - [🛒 Deploying Your Complex E-Commerce App or Any Web app](https://nileshblog.tech/%f0%9f%9b%92-deploying-your-complex-e-commerce-app-or-any-web-app/)
 - [Navbar Example using : Tailwind CSS , React , React Router ,](https://nileshblog.tech/navbar-example-using-tailwind-css-react-react-router/)
 - [Day 30:Kubernetes- Recap and Next Steps](https://nileshblog.tech/day-30kubernetes-recap-and-next-steps/)
 - [Day 29: Kubernetes – Exploring the Kubernetes Ecosystem](https://nileshblog.tech/day-29-kubernetes-exploring-the-kubernetes-ecosystem/)
-- [Day 28: Kubernetes – Cost Optimization in Kubernetes](https://nileshblog.tech/day-28-kubernetes-cost-optimization-in-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 #Recent Dev.to Post
