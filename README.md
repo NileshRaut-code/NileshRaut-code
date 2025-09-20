@@ -13,11 +13,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a High-Concurrency Flash Sale Stock &amp; Inventory Reservation System with Node.js, Redis, Lua, and MongoDB](https://nileshblog.tech/designing-a-high-concurrency-flash-sale-stock-inventory-reservation-system-with-node-js-redis-lua-and-mongodb/)
-- [🛒 Deploying Your Complex E-Commerce App or Any Web app](https://nileshblog.tech/%f0%9f%9b%92-deploying-your-complex-e-commerce-app-or-any-web-app/)
-- [Navbar Example using : Tailwind CSS , React , React Router ,](https://nileshblog.tech/navbar-example-using-tailwind-css-react-react-router/)
-- [Day 30:Kubernetes- Recap and Next Steps](https://nileshblog.tech/day-30kubernetes-recap-and-next-steps/)
-- [Day 29: Kubernetes – Exploring the Kubernetes Ecosystem](https://nileshblog.tech/day-29-kubernetes-exploring-the-kubernetes-ecosystem/)
+- [Happy Ugadi / Gudipadwa 2024: Wishes Videos ,Images, Quotes, Status, Messages, and Photos - Celebrate the Festival with Zeal!](https://www.technilesh.com/2023/03/happy-ugadi-gudipadwa-2023-wishes.html)
+- [Markdown vs HTML: Choosing the Right Language for Web Development](https://www.technilesh.com/2024/02/markdown-vs-html-choosing-right.html)
+- [📚 React Libraries Worth Using in 2024?](https://www.technilesh.com/2024/02/react-libraries-worth-using-in-2024.html)
+- [Mastering VS Code Extension Development with React, TypeScript, and Tailwind: A Comprehensive Guide](https://www.technilesh.com/2024/02/mastering-vs-code-extension-development.html)
+- [Magic of Converting Values to Strings in Javascript 🎃🔰](https://www.technilesh.com/2023/10/magic-of-converting-values-to-strings.html)
 <!-- BLOG-POST-LIST:END -->
 
 #Recent Dev.to Post
